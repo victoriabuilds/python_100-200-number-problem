@@ -1,6 +1,6 @@
 Problem: Number 100...200
 
-Write a program that reads input data from the console - an integer and checks if it is below 100, between 100 and 200 or over 200. Print the appropriate messages as per the examples below.
+I have written a program that reads input data from the console - an integer and checks if it is below 100, between 100 and 200 or over 200. It prints the appropriate messages as per the examples below.
 
 
 
